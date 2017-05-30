@@ -2,7 +2,7 @@
 	Test: Fill memory
 	Author: Sol
 
-	Fills the lowest 1024 bytes of memory with those locations own addresses, then verifies
+	Fills the lowest 1024 bytes of memory with those locations' own addresses, then verifies
 	this block contains the intended values.  Leaves a 0 in $a0 on success.
 */
 

@@ -3,6 +3,7 @@
 *.class
 *.lo
 *.o
+*.img
 *.txt
 assembler.check
 compiler.check

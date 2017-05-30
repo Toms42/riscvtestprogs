@@ -28,4 +28,4 @@ then
 	exit "$status"
 fi
 
-`make run` "$image"
+`make run` "$image" | cat
